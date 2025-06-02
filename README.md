@@ -29,7 +29,4 @@ For questions, suggestions, comments please contact [moritz.helmstaedter@mpimf-h
 
 _Last modified 2008/10/15 [mh](http://www.mpimf-heidelberg.mpg.de/%7Emhelmsta/)._
 
-
----
-
-2025-06-02: Converted README to Markdown.
+_Converted README to Markdown 2025/06/02_
