@@ -27,6 +27,7 @@ This page provides supplementary material for the following studies:
 
 For questions, suggestions, comments please contact [moritz.helmstaedter@mpimf-heidelberg.mpg.de](mailto:moritz.helmstaedter@mpimf-heidelberg.mpg.de).
 
+## Changelog
 _Last modified 2008/10/15 [mh](http://www.mpimf-heidelberg.mpg.de/%7Emhelmsta/)._
 
-_Converted README to Markdown 2025/06/02_
+_Converted README to Markdown 2025/06/02._
